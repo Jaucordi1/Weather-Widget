@@ -1,4 +1,4 @@
-const APP_ID = '5a8b12d5e279f8250ada0dfb2a53670e'
+const APP_ID = 'YOUR_APP_ID'
 const API = 'https://api.openweathermap.org'
 export const ICON_URL = (code: string) => `http://openweathermap.org/img/wn/${code}@2x.png`
 
